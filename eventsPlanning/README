@@ -1,0 +1,6 @@
+Events planning interface
+=================================
+
+This is the main web app the customer interacts with while planning an event. 
+
+Build with Play/Scala, MongoDB and Polymer web components

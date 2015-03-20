@@ -1,0 +1,163 @@
+{
+  "title": "Radna",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "-1": {
+      "title": "Venue",
+      "id": 22,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "3": {
+          "title": "Budget",
+          "id": 16,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Private",
+              "id": 3,
+              "ideas": {
+                "1": {
+                  "title": "Cultural",
+                  "id": 4
+                },
+                "2": {
+                  "title": "Wedding",
+                  "id": 5
+                },
+                "3": {
+                  "title": "Birthdays",
+                  "id": 6
+                },
+                "4": {
+                  "title": "Showers",
+                  "id": 7
+                },
+                "5": {
+                  "title": "Venue",
+                  "id": 23
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Corporate",
+              "id": 2,
+              "ideas": {
+                "1": {
+                  "title": "Tradeshows",
+                  "id": 8,
+                  "ideas": {
+                    "2": {
+                      "title": "Arrangements",
+                      "id": 13,
+                      "ideas": {
+                        "1": {
+                          "title": "Internet",
+                          "id": 14
+                        },
+                        "2": {
+                          "title": "Shwag",
+                          "id": 15
+                        },
+                        "3": {
+                          "title": "Banners etc",
+                          "id": 17
+                        },
+                        "4": {
+                          "title": "Printed flyers",
+                          "id": 18
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Number of people expected",
+                  "id": 12,
+                  "ideas": {
+                    "2": {
+                      "title": "Luncheons",
+                      "id": 10,
+                      "attr": {
+                        "style": {}
+                      },
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "Team building",
+                      "id": 11,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "Arrangements",
+                      "id": 19,
+                      "ideas": {
+                        "1": {
+                          "title": "AV",
+                          "id": 20
+                        },
+                        "2": {
+                          "title": "Internet/wifi",
+                          "id": 21
+                        },
+                        "3": {
+                          "title": "Food",
+                          "id": 24,
+                          "ideas": {
+                            "1": {
+                              "title": "Menu",
+                              "id": 25
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "5": {
+                      "title": "Conferences",
+                      "id": 9,
+                      "ideas": {
+                        "1": {
+                          "title": "Presenters",
+                          "id": 28,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "6": {
+                  "title": "Other Marketing intiatives",
+                  "id": 26
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
